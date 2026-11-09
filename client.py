@@ -3,10 +3,10 @@ import pygame
 import requests
 
 # Server 網址
-API_BASE_URL = "http://127.0.0.1:8000"
+# API_BASE_URL = "http://127.0.0.1:8000"
 
 # Render 部署時改成：
-# API_BASE_URL = "https://你的Render網址"
+API_BASE_URL = "https://wordle-client-fastapi.onrender.com/docs"
 
 # 顏色定義
 COLOR_BG = (18, 18, 19)
