@@ -6,7 +6,7 @@ import requests
 # API_BASE_URL = "http://127.0.0.1:8000"
 
 # Render 部署時改成：
-API_BASE_URL = "https://wordle-client-fastapi.onrender.com/docs"
+API_BASE_URL = "https://wordle-client-fastapi.onrender.com"
 
 # 顏色定義
 COLOR_BG = (18, 18, 19)
